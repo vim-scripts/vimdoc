@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=261
+
+This project is far from perfect, but it already works.
+
+Use this to produce vim documentation in html, man and LaTeX(PostScript) format.
